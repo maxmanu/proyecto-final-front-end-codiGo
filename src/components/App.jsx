@@ -20,7 +20,7 @@ const App = () => (
         <Switch>
             <Protected path="/" exact component={Home} />
             <Protected path="/especialidades" exact component={Specialities} />
-            <Protected path="/especialidaes/:id" component={Speciality} />
+            <Protected path="/especialidades/:id" exact component={Speciality} />
             <Protected path="/cursos" exact component={Courses} />
             <Protected path="/cursos/:id" exact component={Course} />
             <Protected path="/profesores" exact component={Teachers} />

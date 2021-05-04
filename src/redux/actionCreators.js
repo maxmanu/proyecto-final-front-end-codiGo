@@ -25,7 +25,7 @@ export const getAllSpecialities = () => (dispatch) => {
     axios.get(`${API_URL}/especialidades`).then((response) => {
         return dispatch({
             type: GET_ALL_SPECIALITIES,
-            specificities: response.data,
+            specialities: response.data,
         });
     });
 };
@@ -58,7 +58,7 @@ export const getPost = (id) => (dispatch) => {
 };
 
 export const getSpeciality = (id) => (dispatch) => {
-    axios.get(`${API_URL}/especialidades/${id}`).then((response) => {
+    axios.get(`${API_URL}/especialidad/${id}`).then((response) => {
         return dispatch({
             type: GET_SPECIALITY,
             speciality: response.data,
