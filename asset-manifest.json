@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/proyecto-final-front-end-codiGo/static/css/main.8a118874.chunk.css",
+    "main.js": "/proyecto-final-front-end-codiGo/static/js/main.ff729b2c.chunk.js",
+    "main.js.map": "/proyecto-final-front-end-codiGo/static/js/main.ff729b2c.chunk.js.map",
+    "runtime-main.js": "/proyecto-final-front-end-codiGo/static/js/runtime-main.a6d1f683.js",
+    "runtime-main.js.map": "/proyecto-final-front-end-codiGo/static/js/runtime-main.a6d1f683.js.map",
+    "static/js/2.9bc36d27.chunk.js": "/proyecto-final-front-end-codiGo/static/js/2.9bc36d27.chunk.js",
+    "static/js/2.9bc36d27.chunk.js.map": "/proyecto-final-front-end-codiGo/static/js/2.9bc36d27.chunk.js.map",
+    "index.html": "/proyecto-final-front-end-codiGo/index.html",
+    "static/css/main.8a118874.chunk.css.map": "/proyecto-final-front-end-codiGo/static/css/main.8a118874.chunk.css.map",
+    "static/js/2.9bc36d27.chunk.js.LICENSE.txt": "/proyecto-final-front-end-codiGo/static/js/2.9bc36d27.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6d1f683.js",
+    "static/js/2.9bc36d27.chunk.js",
+    "static/css/main.8a118874.chunk.css",
+    "static/js/main.ff729b2c.chunk.js"
+  ]
+}
